@@ -7,5 +7,6 @@ Tugasan Fasa Percubaan Sebelum Temuduga (29/5/2023)
 
 CSS framework: **Bootstrap 4**
 
-**Preview: **\n
+**Preview:**
+
 ![image](https://github.com/apiz23/Amtis-solution-coding/assets/100256725/5cf9527b-fe82-466f-a0c9-55fee86ba243)
