@@ -1,0 +1,8 @@
+label {
+    font-size: 120%;
+    font-weight: 500;
+}
+
+table thead {
+    border-bottom: 3px solid rgb(0, 0, 0);
+}
