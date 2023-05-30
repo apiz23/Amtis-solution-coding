@@ -1,6 +1,6 @@
 <?php
     function calculateHour($i){
-        $voltage = $current = $currentRate = 0;
+        $voltage = $current = $currentRate = $energy = $total =  0;
 
         if ($_SERVER["REQUEST_METHOD"] == "POST") {
             $voltage = $_POST["voltage"];

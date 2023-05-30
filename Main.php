@@ -92,7 +92,7 @@
                 <thead>
                     <tr>
                         <th scope="col">#</th>
-                        <th scope="col">Day</th>
+                        <th scope="col">Days</th>
                         <th scope="col">Energy (kWh)</th>
                         <th scope="col">TOTAL (RM)</th>
                     </tr>
