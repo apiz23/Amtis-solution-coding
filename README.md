@@ -1,5 +1,6 @@
 # Amtis-solution-coding
 Tugasan Fasa Percubaan Sebelum Temuduga (29/5/2023) 
+Tariff TNB Calculator
 
 **Details:**
 1. Name: Muhammad Hafizuddin bin Abdul Hamid
